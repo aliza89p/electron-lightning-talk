@@ -3,7 +3,7 @@ Electron is a library designed to help developers make cross-platform (Mac/Windo
 
 - `npm install --save electron`
 
-- It's cool because:
+- It's cool because:  
   - You don't have to keep a tab open in your browser to keep your application running
   - You can set up desktop notifications  
   - you can use `command + tab` to switch between windows and get to your app  
@@ -26,4 +26,4 @@ Electron is a library designed to help developers make cross-platform (Mac/Windo
 - [Video About Electron](https://www.youtube.com/watch?v=8YP_nOCO-4Q&feature=youtu.be)  
 - [Electron API Demos](https://github.com/electron/electron-api-demos)
 - [Electron Docs](http://electron.atom.io/docs)  
-- [Electron Source Code](http://electron.atom.io/)  
+- [Electron Source Code](https://github.com/electron/electron)  
