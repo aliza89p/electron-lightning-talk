@@ -1,5 +1,5 @@
 # [Electron](http://electron.atom.io/)  
-Electron is a library designed to help developers make cross-platform (Mac/Windows/Linux) desktop applications using HTML, CSS, and JavaScript. You can use NPM modules, Bootstrap, Angular, Node, Gulp, etc...
+Electron is a framework designed to help developers make cross-platform (Mac/Windows/Linux) desktop applications using HTML, CSS, and JavaScript. You can use NPM modules, Bootstrap, Angular, Node, Gulp, etc...
 
 - `npm install --save electron`
 
